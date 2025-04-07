@@ -25,6 +25,7 @@ docs/CreateReservationRecord.md
 docs/CreateReservationRequest.md
 docs/CreateReservationResponse.md
 docs/CreateServiceDocumentUploadDestination.md
+docs/DateTimeRange.md
 docs/DayOfWeek.md
 docs/EncryptionDetails.md
 docs/Error.md
@@ -95,6 +96,7 @@ src/js_client.services_v1.model/CreateReservationRecord.js
 src/js_client.services_v1.model/CreateReservationRequest.js
 src/js_client.services_v1.model/CreateReservationResponse.js
 src/js_client.services_v1.model/CreateServiceDocumentUploadDestination.js
+src/js_client.services_v1.model/DateTimeRange.js
 src/js_client.services_v1.model/DayOfWeek.js
 src/js_client.services_v1.model/EncryptionDetails.js
 src/js_client.services_v1.model/Error.js
@@ -159,6 +161,7 @@ test/model/CreateReservationRecord.spec.js
 test/model/CreateReservationRequest.spec.js
 test/model/CreateReservationResponse.spec.js
 test/model/CreateServiceDocumentUploadDestination.spec.js
+test/model/DateTimeRange.spec.js
 test/model/DayOfWeek.spec.js
 test/model/EncryptionDetails.spec.js
 test/model/Error.spec.js

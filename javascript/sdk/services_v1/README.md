@@ -164,6 +164,7 @@ Class | Method | HTTP request | Description
  - [SellingPartnerApiForServices.CreateReservationRequest](docs/CreateReservationRequest.md)
  - [SellingPartnerApiForServices.CreateReservationResponse](docs/CreateReservationResponse.md)
  - [SellingPartnerApiForServices.CreateServiceDocumentUploadDestination](docs/CreateServiceDocumentUploadDestination.md)
+ - [SellingPartnerApiForServices.DateTimeRange](docs/DateTimeRange.md)
  - [SellingPartnerApiForServices.DayOfWeek](docs/DayOfWeek.md)
  - [SellingPartnerApiForServices.EncryptionDetails](docs/EncryptionDetails.md)
  - [SellingPartnerApiForServices.Error](docs/Error.md)

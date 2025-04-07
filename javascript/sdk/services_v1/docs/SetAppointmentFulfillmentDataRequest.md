@@ -4,6 +4,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
+**estimatedArrivalTime** | [**DateTimeRange**](DateTimeRange.md) |  | [optional] 
 **fulfillmentTime** | [**FulfillmentTime**](FulfillmentTime.md) |  | [optional] 
 **appointmentResources** | [**[AppointmentResource]**](AppointmentResource.md) | List of resources that performs or performed job appointment fulfillment. | [optional] 
 **fulfillmentDocuments** | [**[FulfillmentDocument]**](FulfillmentDocument.md) | List of documents captured during service appointment fulfillment. | [optional] 
