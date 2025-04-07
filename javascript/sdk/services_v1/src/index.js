@@ -34,6 +34,7 @@ import {CreateReservationRecord} from './js_client.services_v1.model/CreateReser
 import {CreateReservationRequest} from './js_client.services_v1.model/CreateReservationRequest.js';
 import {CreateReservationResponse} from './js_client.services_v1.model/CreateReservationResponse.js';
 import {CreateServiceDocumentUploadDestination} from './js_client.services_v1.model/CreateServiceDocumentUploadDestination.js';
+import {DateTimeRange} from './js_client.services_v1.model/DateTimeRange.js';
 import {DayOfWeek} from './js_client.services_v1.model/DayOfWeek.js';
 import {EncryptionDetails} from './js_client.services_v1.model/EncryptionDetails.js';
 import {Error} from './js_client.services_v1.model/Error.js';
@@ -222,6 +223,12 @@ export {
      * @property {module:js_client.services_v1.model/CreateServiceDocumentUploadDestination}
      */
     CreateServiceDocumentUploadDestination,
+
+    /**
+     * The DateTimeRange model constructor.
+     * @property {module:js_client.services_v1.model/DateTimeRange}
+     */
+    DateTimeRange,
 
     /**
      * The DayOfWeek model constructor.
